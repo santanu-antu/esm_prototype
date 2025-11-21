@@ -1,1 +1,6 @@
-/__pycache__
+*.fasta
+*.pth
+__pycache__/
+*.out
+*.err
+.DS_Store
